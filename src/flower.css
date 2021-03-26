@@ -1,18 +1,19 @@
 .template {
     margin: 10px;
-    width: 250px;
+    width: 230px;
     height: 300px;
 
     padding: 5px;
 
     text-align: center;
-    border: 1px solid grey;
-    border-radius: 10px;
+    border: 2px solid grey;
+    border-radius: 20px;
     background-color:#e7f5fe;
-    box-shadow: 2px 2px 2px grey;
+    box-shadow: 4px 4px 4px grey;
 }
 .kuva img{
     width: 200px;
-    border: 1px solid grey;
-    box-shadow: 3px 3px 2px #8ab2cc;
+    border: 2px solid #000fff;
+    border-radius: 20px;
+    box-shadow: 4px 4px 3px #7390fd;
 }

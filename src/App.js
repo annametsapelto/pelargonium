@@ -19,11 +19,6 @@ function App() {
           img = {nikolaj}
           text = "A white strongly growing double flowered pelargonium of the zonale family."
       />
-      <Flowertemplate
-          title = "Summer Twist White"
-          img = {twist}
-          text = "A white stellar pelargonium of the zonale family."
-      />
       <Flowerpicture
           img = {appleblossom}
           alt = "Appleblossom Rosebud"
