@@ -7,6 +7,8 @@ function Flowertemplate(props) {
         <div className="template">
            <h3>{props.title}</h3>
            <Flowerpicture
+               img = {props.img}
+               alt = {props.title}
            />
            <p>{props.text}</p>
         </div>
