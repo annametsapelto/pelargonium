@@ -1,9 +1,10 @@
 import React from 'react';
 import Flowerpicture from './flowerpicture';
+import './flower.css';
 
 function Flowertemplate(props) {
     return (
-        <div>
+        <div className="template">
            <h3>{props.title}</h3>
            <Flowerpicture
            />

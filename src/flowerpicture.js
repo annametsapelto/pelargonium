@@ -1,10 +1,9 @@
 import React from 'react';
-import Flowertemplate from './flowertemplate';
 
-function Flowerpicture() {
+function Flowerpicture(props) {
     return (
-        <div>
-
+        <div className = "kuva">
+            <img src = {props.img}/>
         </div>
     )
 }
