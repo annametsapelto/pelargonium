@@ -1,4 +1,5 @@
 import React from 'react';
+import './flower.css';
 
 function Flowerpicture(props) {
     return (

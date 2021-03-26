@@ -1,5 +1,18 @@
-template {
-    width: 300px;
-    height: 400px;
-    border: 1px, solid black;
+.template {
+    margin: 10px;
+    width: 250px;
+    height: 300px;
+
+    padding: 5px;
+
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color:#e7f5fe;
+    box-shadow: 2px 2px 2px grey;
+}
+.kuva img{
+    width: 200px;
+    border: 1px solid grey;
+    box-shadow: 3px 3px 2px #8ab2cc;
 }
